@@ -7,6 +7,7 @@ namespace MyCompany.Controllers
         public IActionResult Index()
         {
             return View();
+
         }
     }
 }
