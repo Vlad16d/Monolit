@@ -19,10 +19,16 @@ wwwroot\css\fontawesome-all.min.css
 wwwroot\css\main.css
 wwwroot\css\main.min.css
 wwwroot\img\bg.png
+wwwroot\img\bg01.png
 wwwroot\img\bg02.png
 wwwroot\img\bg03.png
 wwwroot\img\bg04.png
+wwwroot\img\bg2.png
+wwwroot\img\bg3(v2).png
+wwwroot\img\bg3.png
+wwwroot\img\bg4.png
 wwwroot\img\favicon.ico
+wwwroot\img\header.jpg
 wwwroot\js\breakpoints.min.js
 wwwroot\js\browser.min.js
 wwwroot\js\jquery.dropotron.min.js

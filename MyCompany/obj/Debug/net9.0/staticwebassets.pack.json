@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\img\\bg.png"
     },
     {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg01.png",
+      "PackagePath": "staticwebassets\\img\\bg01.png"
+    },
+    {
       "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg02.png",
       "PackagePath": "staticwebassets\\img\\bg02.png"
     },
@@ -29,8 +33,28 @@
       "PackagePath": "staticwebassets\\img\\bg04.png"
     },
     {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg2.png",
+      "PackagePath": "staticwebassets\\img\\bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
+      "PackagePath": "staticwebassets\\img\\bg3(v2).png"
+    },
+    {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3.png",
+      "PackagePath": "staticwebassets\\img\\bg3.png"
+    },
+    {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg4.png",
+      "PackagePath": "staticwebassets\\img\\bg4.png"
+    },
+    {
       "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\img\\header.jpg"
     },
     {
       "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\js\\breakpoints.min.js",
