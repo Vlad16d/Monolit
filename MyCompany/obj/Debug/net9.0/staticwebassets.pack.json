@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\css\\main.min.css"
     },
     {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\2.png",
+      "PackagePath": "staticwebassets\\img\\2.png"
+    },
+    {
       "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg.png",
       "PackagePath": "staticwebassets\\img\\bg.png"
     },
@@ -55,6 +63,10 @@
     {
       "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\header.jpg",
       "PackagePath": "staticwebassets\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\Снимок экрана 2025-03-15 155654.png",
+      "PackagePath": "staticwebassets\\img\\Снимок экрана 2025-03-15 155654.png"
     },
     {
       "Id": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\js\\breakpoints.min.js",

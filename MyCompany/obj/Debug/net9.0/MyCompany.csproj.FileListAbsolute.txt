@@ -192,5 +192,6 @@ C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\c0yl
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\uz09xxo6cz-ohiflohkts.gz
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\jble1qdf71-84f7t0u9ox.gz
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\0vwartkxve-1vkbz49ckx.gz
-C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\q2rx2nda8d-63sixjr6kk.gz
-C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\m9fzhjszcs-3dkdf788ov.gz
+C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\q2rx2nda8d-m07upxgaxy.gz
+C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\compressed\m9fzhjszcs-s61wecdj1n.gz

@@ -3,6 +3,6 @@
     public enum ServiceTypeEnum
     {
         Standard, 
-        Vip
+        VIP
     }
 }
