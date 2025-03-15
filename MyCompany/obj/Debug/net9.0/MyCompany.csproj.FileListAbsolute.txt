@@ -153,7 +153,6 @@ C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\staticwebassets
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyCompany.props
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyCompany.props
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\MyCompany.csproj.Up2Date
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\MyCompany.dll
 C:\Users\imaf2\source\repos\MyCompany\MyCompany\obj\Debug\net9.0\refint\MyCompany.dll

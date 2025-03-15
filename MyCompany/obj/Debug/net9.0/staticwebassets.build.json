@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3KvAri16FeWp5jdZf+btka73JmqfwS8KFP+5Pt5nF2c=",
+  "Hash": "NyaJz7QuxUfWBJawzEKhLKd+K1rnSNQnTqffxcfeqNo=",
   "Source": "MyCompany",
   "BasePath": "_content/MyCompany",
   "Mode": "Default",
@@ -563,27 +563,6 @@
       "OriginalItemSpec": "wwwroot\\img\\bg2.png"
     },
     {
-      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
-      "SourceId": "MyCompany",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\",
-      "BasePath": "_content/MyCompany",
-      "RelativePath": "img/bg3(v2)#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "htev919jy5",
-      "Integrity": "xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\bg3(v2).png"
-    },
-    {
       "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3.png",
       "SourceId": "MyCompany",
       "SourceType": "Discovered",
@@ -603,6 +582,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\bg3.png"
+    },
+    {
+      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
+      "SourceId": "MyCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\",
+      "BasePath": "_content/MyCompany",
+      "RelativePath": "img/bg3(v2)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "htev919jy5",
+      "Integrity": "xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bg3(v2).png"
     },
     {
       "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg4.png",
@@ -2668,7 +2668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:19 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2705,7 +2705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:19 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2724,6 +2724,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1b0iyzxAUOlyUrwyiDsaj6L7PvXegqOKMATpnfj9qi0="
+        }
+      ]
+    },
+    {
+      "Route": "img/bg3.png",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0="
+        }
+      ]
+    },
+    {
+      "Route": "img/bg3.si8w1xtd7y.png",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "si8w1xtd7y"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bg3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0="
         }
       ]
     },
@@ -2750,7 +2832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:24 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2795,7 +2877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:24 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2806,88 +2888,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY="
-        }
-      ]
-    },
-    {
-      "Route": "img/bg3.png",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1713"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0="
-        }
-      ]
-    },
-    {
-      "Route": "img/bg3.si8w1xtd7y.png",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1713"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "si8w1xtd7y"
-        },
-        {
-          "Name": "label",
-          "Value": "img/bg3.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0="
         }
       ]
     },
@@ -2914,7 +2914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:26 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2959,7 +2959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 11:24:26 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6550,7 +6550,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 14:24:57 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6893,7 +6893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 14:24:57 GMT"
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
         },
         {
           "Name": "Cache-Control",

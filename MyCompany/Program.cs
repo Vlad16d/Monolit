@@ -1,6 +1,12 @@
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using MyCompany.Domain;
+using MyCompany.Domain.Repositories.Abstract;
+using MyCompany.Domain.Repositories.EntityFramework;
 using MyCompany.Infrastructure;
-// to jest przyk³adowy komentarz
+
 namespace MyCompany
 {
     public class Program
@@ -17,7 +23,35 @@ namespace MyCompany
 
             // Wrapping the Project section in an object form for comfort
             IConfiguration configuration = configBuild.Build();
-            AppConfig config = configuration.GetSection("Project ").Get<AppConfig>()!;
+            AppConfig config = configuration.GetSection("Project").Get<AppConfig>()!;
+
+            // Connecting the database context
+            builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(config.Database.ConnectionString)
+                .ConfigureWarnings(warnings => warnings.Ignore(RelationalEventId.PendingModelChangesWarning)));
+
+            builder.Services.AddTransient<IServiceCategoriesRepository, EFServiceCategoriesRepository>();
+            builder.Services.AddTransient<IServicesRepository, EFServicesRepository>();
+            builder.Services.AddTransient<DataManager>();
+
+            // Setting up the Identity system
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+            {
+                options.User.RequireUniqueEmail = true;
+                options.Password.RequiredLength = 6;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireDigit = false;
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+            // Setting up Auth cookie
+            builder.Services.ConfigureApplicationCookie(options =>
+            {
+                options.Cookie.Name = "myCompanyAuth";
+                options.Cookie.HttpOnly = true;
+                options.LoginPath = "/admin/login";
+                options.AccessDeniedPath = "/admin/accessdenied";
+                options.SlidingExpiration = true;
+            });
 
             // Connecting controller functionality
             builder.Services.AddControllersWithViews();
@@ -30,6 +64,11 @@ namespace MyCompany
 
             // Connecting the routing system
             app.UseRouting();
+
+            // Enabling authentication and authorization
+            app.UseCookiePolicy();
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             // Registration of necessary routes
             app.MapControllerRoute("default","{controller=Home}/{action=Index}/{id?}");
