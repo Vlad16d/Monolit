@@ -30,6 +30,7 @@ namespace MyCompany.Controllers.Admin
             }
 
             await _dataManager.Services.SaveServiceAsync(entity);
+            _logger.LogInformation($"Added / updated service with ID: {entity.Id}");
 
             return RedirectToAction("Index");
         }
@@ -38,6 +39,7 @@ namespace MyCompany.Controllers.Admin
         public async Task<IActionResult> ServicesDelete(int id)
         {
             await _dataManager.Services.DeleteServiceAsync(id);
+            _logger.LogInformation($"Deleted service with ID: {id}");
 
             return RedirectToAction("Index");
         }

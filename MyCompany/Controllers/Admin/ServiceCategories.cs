@@ -23,6 +23,7 @@ namespace MyCompany.Controllers.Admin
                 return View(entity);
 
             await _dataManager.ServiceCategories.SaveServiceCategoryAsync(entity);
+            _logger.LogInformation($"Added / updated service category with ID: {entity.Id}");
 
             return RedirectToAction("Index");
         }
@@ -31,6 +32,7 @@ namespace MyCompany.Controllers.Admin
         public async Task<IActionResult> ServiceCategoriesDelete(int id)
         {
             await _dataManager.ServiceCategories.DeleteServiceCategoryAsync(id);
+            _logger.LogInformation($"Deleted service category with ID: {id}");
 
             return RedirectToAction("Index");
         }

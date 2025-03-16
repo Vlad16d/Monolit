@@ -7,7 +7,11 @@ namespace MyCompany.Controllers
         public IActionResult Index()
         {
             return View();
+        }
 
+        public IActionResult Contacts()
+        {
+            return View();
         }
     }
 }

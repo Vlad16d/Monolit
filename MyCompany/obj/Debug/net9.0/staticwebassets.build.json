@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YCqF2Kcx6H/NRRqb9Sqb47J0KLX53YqIaF4P7yjcPSc=",
+  "Hash": "eo/HBLoaE/wpvezfiPjHD71tg1GZkIuzICpZjynpa0U=",
   "Source": "MyCompany",
   "BasePath": "_content/MyCompany",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\fontawesome-all.min.css"
     },
     {
-      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-s61wecdj1n.gz",
+      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-m8xel00cba.gz",
       "SourceId": "MyCompany",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyCompany",
-      "RelativePath": "css/main.min#[.{fingerprint=s61wecdj1n}]?.css.gz",
+      "RelativePath": "css/main.min#[.{fingerprint=m8xel00cba}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dflh6zt9sy",
-      "Integrity": "Rzdc7IhZOgfbhCMq+XTZ6bYut2MXPscKFRvtoUwXyp8=",
+      "Fingerprint": "uhhdme8ge3",
+      "Integrity": "0ueYSOwqb+h5zQS61BFiv+969+Q2IPAulZISgVjnwAM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.min.css"
@@ -227,12 +227,12 @@
       "OriginalItemSpec": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-m07upxgaxy.gz",
+      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-3pjgpsoy8c.gz",
       "SourceId": "MyCompany",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyCompany",
-      "RelativePath": "css/main#[.{fingerprint=m07upxgaxy}]?.css.gz",
+      "RelativePath": "css/main#[.{fingerprint=3pjgpsoy8c}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -241,8 +241,8 @@
       "RelatedAsset": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bc7aegx9t2",
-      "Integrity": "VV4x8HH4JV32RZhBCUBhQT6JugsV5O0GtTEiTwZIBx4=",
+      "Fingerprint": "eyci4tz8dc",
+      "Integrity": "FloWwimIy2A10/O6LCwS4LQfxMKP6y+ixu5KTWKoNbQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.css"
@@ -409,8 +409,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m07upxgaxy",
-      "Integrity": "BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas=",
+      "Fingerprint": "3pjgpsoy8c",
+      "Integrity": "SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\main.css"
@@ -430,8 +430,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s61wecdj1n",
-      "Integrity": "BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk=",
+      "Fingerprint": "m8xel00cba",
+      "Integrity": "xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\main.min.css"
@@ -477,6 +477,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\2.png"
+    },
+    {
+      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\3.jpg",
+      "SourceId": "MyCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\",
+      "BasePath": "_content/MyCompany",
+      "RelativePath": "img/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p66apiabte",
+      "Integrity": "0d4/qt3uVml8gb+LiSHxe7hQlpi1utyz3hcko+XrFdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\3.jpg"
     },
     {
       "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg.png",
@@ -605,27 +626,6 @@
       "OriginalItemSpec": "wwwroot\\img\\bg2.png"
     },
     {
-      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
-      "SourceId": "MyCompany",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\",
-      "BasePath": "_content/MyCompany",
-      "RelativePath": "img/bg3(v2)#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "htev919jy5",
-      "Integrity": "xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\bg3(v2).png"
-    },
-    {
       "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3.png",
       "SourceId": "MyCompany",
       "SourceType": "Discovered",
@@ -645,6 +645,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\bg3.png"
+    },
+    {
+      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
+      "SourceId": "MyCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\",
+      "BasePath": "_content/MyCompany",
+      "RelativePath": "img/bg3(v2)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "htev919jy5",
+      "Integrity": "xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bg3(v2).png"
     },
     {
       "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg4.png",
@@ -708,27 +729,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\header.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\Снимок экрана 2025-03-15 155654.png",
-      "SourceId": "MyCompany",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\",
-      "BasePath": "_content/MyCompany",
-      "RelativePath": "img/Снимок экрана 2025-03-15 155654#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fjr7od1zbd",
-      "Integrity": "1TxoL50UouCvfDsG89B5S71SAY749AKf2YCKB+tDono=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Снимок экрана 2025-03-15 155654.png"
     },
     {
       "Identity": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\js\\breakpoints.min.js",
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vv0neitnx2",
-      "Integrity": "xbWjSlWnsOjzNjqv2wWJDt4aUjPWwRsyTtYeSqaveqw=",
+      "Fingerprint": "tju1ic9753",
+      "Integrity": "6aLarHQvJQVZNxKsYIBfQCREkXvcgorua9vqFl0f3qo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\scss\\main.scss"
@@ -1703,13 +1703,13 @@
       ]
     },
     {
-      "Route": "css/main.css",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-m07upxgaxy.gz",
+      "Route": "css/main.3pjgpsoy8c.css",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-3pjgpsoy8c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000151768098"
+          "Quality": "0.000151034587"
         }
       ],
       "ResponseHeaders": [
@@ -1719,19 +1719,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6588"
+          "Value": "6620"
         },
         {
           "Name": "ETag",
-          "Value": "\"VV4x8HH4JV32RZhBCUBhQT6JugsV5O0GtTEiTwZIBx4=\""
+          "Value": "\"FloWwimIy2A10/O6LCwS4LQfxMKP6y+ixu5KTWKoNbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -1747,18 +1747,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas=\""
+          "Value": "W/\"SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "3pjgpsoy8c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas="
+          "Value": "sha256-SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI="
         }
       ]
     },
     {
-      "Route": "css/main.css",
+      "Route": "css/main.3pjgpsoy8c.css",
       "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1768,7 +1776,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39410"
+          "Value": "39492"
         },
         {
           "Name": "Content-Type",
@@ -1776,121 +1784,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas=\""
+          "Value": "\"SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas="
-        }
-      ]
-    },
-    {
-      "Route": "css/main.css.gz",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-m07upxgaxy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6588"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VV4x8HH4JV32RZhBCUBhQT6JugsV5O0GtTEiTwZIBx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VV4x8HH4JV32RZhBCUBhQT6JugsV5O0GtTEiTwZIBx4="
-        }
-      ]
-    },
-    {
-      "Route": "css/main.m07upxgaxy.css",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-m07upxgaxy.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000151768098"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6588"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VV4x8HH4JV32RZhBCUBhQT6JugsV5O0GtTEiTwZIBx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m07upxgaxy"
+          "Value": "3pjgpsoy8c"
         },
         {
           "Name": "label",
@@ -1898,13 +1806,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas="
+          "Value": "sha256-SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI="
         }
       ]
     },
     {
-      "Route": "css/main.m07upxgaxy.css",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.css",
+      "Route": "css/main.3pjgpsoy8c.css.gz",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-3pjgpsoy8c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1913,7 +1821,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39410"
+          "Value": "6620"
         },
         {
           "Name": "Content-Type",
@@ -1921,56 +1829,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas=\""
+          "Value": "\"FloWwimIy2A10/O6LCwS4LQfxMKP6y+ixu5KTWKoNbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m07upxgaxy"
-        },
-        {
-          "Name": "label",
-          "Value": "css/main.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BtztWh7IbWIfX+RmlejkXp6DA7ea0/tZ6vuqbjnPyas="
-        }
-      ]
-    },
-    {
-      "Route": "css/main.m07upxgaxy.css.gz",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-m07upxgaxy.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6588"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VV4x8HH4JV32RZhBCUBhQT6JugsV5O0GtTEiTwZIBx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1988,7 +1851,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m07upxgaxy"
+          "Value": "3pjgpsoy8c"
         },
         {
           "Name": "label",
@@ -1996,18 +1859,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VV4x8HH4JV32RZhBCUBhQT6JugsV5O0GtTEiTwZIBx4="
+          "Value": "sha256-FloWwimIy2A10/O6LCwS4LQfxMKP6y+ixu5KTWKoNbQ="
         }
       ]
     },
     {
-      "Route": "css/main.min.css",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-s61wecdj1n.gz",
+      "Route": "css/main.css",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-3pjgpsoy8c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180115274"
+          "Quality": "0.000151034587"
         }
       ],
       "ResponseHeaders": [
@@ -2017,15 +1880,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5551"
+          "Value": "6620"
         },
         {
           "Name": "ETag",
-          "Value": "\"Rzdc7IhZOgfbhCMq+XTZ6bYut2MXPscKFRvtoUwXyp8=\""
+          "Value": "\"FloWwimIy2A10/O6LCwS4LQfxMKP6y+ixu5KTWKoNbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2045,13 +1908,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk=\""
+          "Value": "W/\"SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk="
+          "Value": "sha256-SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SY8j+fGQbFXSIgNLojXJgtGi1IzlT764B/hTraUUDHI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.css.gz",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\q2rx2nda8d-3pjgpsoy8c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FloWwimIy2A10/O6LCwS4LQfxMKP6y+ixu5KTWKoNbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FloWwimIy2A10/O6LCwS4LQfxMKP6y+ixu5KTWKoNbQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.min.css",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-m8xel00cba.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000179243592"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5578"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ueYSOwqb+h5zQS61BFiv+969+Q2IPAulZISgVjnwAM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU="
         }
       ]
     },
@@ -2066,7 +2066,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30503"
+          "Value": "30569"
         },
         {
           "Name": "Content-Type",
@@ -2074,11 +2074,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk=\""
+          "Value": "\"xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2088,13 +2088,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk="
+          "Value": "sha256-xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU="
         }
       ]
     },
     {
       "Route": "css/main.min.css.gz",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-s61wecdj1n.gz",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-m8xel00cba.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2103,7 +2103,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5551"
+          "Value": "5578"
         },
         {
           "Name": "Content-Type",
@@ -2111,11 +2111,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Rzdc7IhZOgfbhCMq+XTZ6bYut2MXPscKFRvtoUwXyp8=\""
+          "Value": "\"0ueYSOwqb+h5zQS61BFiv+969+Q2IPAulZISgVjnwAM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2133,18 +2133,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Rzdc7IhZOgfbhCMq+XTZ6bYut2MXPscKFRvtoUwXyp8="
+          "Value": "sha256-0ueYSOwqb+h5zQS61BFiv+969+Q2IPAulZISgVjnwAM="
         }
       ]
     },
     {
-      "Route": "css/main.min.s61wecdj1n.css",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-s61wecdj1n.gz",
+      "Route": "css/main.min.m8xel00cba.css",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-m8xel00cba.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000180115274"
+          "Quality": "0.000179243592"
         }
       ],
       "ResponseHeaders": [
@@ -2154,15 +2154,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5551"
+          "Value": "5578"
         },
         {
           "Name": "ETag",
-          "Value": "\"Rzdc7IhZOgfbhCMq+XTZ6bYut2MXPscKFRvtoUwXyp8=\""
+          "Value": "\"0ueYSOwqb+h5zQS61BFiv+969+Q2IPAulZISgVjnwAM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2182,13 +2182,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk=\""
+          "Value": "W/\"xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s61wecdj1n"
+          "Value": "m8xel00cba"
         },
         {
           "Name": "label",
@@ -2196,12 +2196,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk="
+          "Value": "sha256-xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU="
         }
       ]
     },
     {
-      "Route": "css/main.min.s61wecdj1n.css",
+      "Route": "css/main.min.m8xel00cba.css",
       "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\css\\main.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2211,7 +2211,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30503"
+          "Value": "30569"
         },
         {
           "Name": "Content-Type",
@@ -2219,11 +2219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk=\""
+          "Value": "\"xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2233,7 +2233,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s61wecdj1n"
+          "Value": "m8xel00cba"
         },
         {
           "Name": "label",
@@ -2241,13 +2241,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BNyMQxSXnP18SQ4w71xdUDJQmUvBJY3Dy0qa/8bSylk="
+          "Value": "sha256-xtSi++PLTaQxfwoK9ta0UWZ/YD3rkjfLBhWBimMhAwU="
         }
       ]
     },
     {
-      "Route": "css/main.min.s61wecdj1n.css.gz",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-s61wecdj1n.gz",
+      "Route": "css/main.min.m8xel00cba.css.gz",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\obj\\Debug\\net9.0\\compressed\\m9fzhjszcs-m8xel00cba.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2256,7 +2256,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5551"
+          "Value": "5578"
         },
         {
           "Name": "Content-Type",
@@ -2264,11 +2264,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Rzdc7IhZOgfbhCMq+XTZ6bYut2MXPscKFRvtoUwXyp8=\""
+          "Value": "\"0ueYSOwqb+h5zQS61BFiv+969+Q2IPAulZISgVjnwAM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:53:24 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2286,7 +2286,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s61wecdj1n"
+          "Value": "m8xel00cba"
         },
         {
           "Name": "label",
@@ -2294,7 +2294,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Rzdc7IhZOgfbhCMq+XTZ6bYut2MXPscKFRvtoUwXyp8="
+          "Value": "sha256-0ueYSOwqb+h5zQS61BFiv+969+Q2IPAulZISgVjnwAM="
         }
       ]
     },
@@ -2321,7 +2321,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 15:49:22 GMT"
+          "Value": "Sat, 15 Mar 2025 15:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2366,7 +2366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 15:49:22 GMT"
+          "Value": "Sat, 15 Mar 2025 15:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2403,7 +2403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 15:48:53 GMT"
+          "Value": "Sat, 15 Mar 2025 15:51:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2440,7 +2440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 15:48:53 GMT"
+          "Value": "Sat, 15 Mar 2025 15:51:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2459,6 +2459,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-/c+N9iQUXbaahd8+QoiH0gsQfHDcuW2Hi+GIGYwCTiA="
+        }
+      ]
+    },
+    {
+      "Route": "img/3.jpg",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0d4/qt3uVml8gb+LiSHxe7hQlpi1utyz3hcko+XrFdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 10:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0d4/qt3uVml8gb+LiSHxe7hQlpi1utyz3hcko+XrFdg="
+        }
+      ]
+    },
+    {
+      "Route": "img/3.p66apiabte.jpg",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0d4/qt3uVml8gb+LiSHxe7hQlpi1utyz3hcko+XrFdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 10:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p66apiabte"
+        },
+        {
+          "Name": "label",
+          "Value": "img/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0d4/qt3uVml8gb+LiSHxe7hQlpi1utyz3hcko+XrFdg="
         }
       ]
     },
@@ -2895,7 +2977,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:54:08 GMT"
+          "Value": "Sun, 16 Mar 2025 10:57:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2932,7 +3014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:54:08 GMT"
+          "Value": "Sun, 16 Mar 2025 10:57:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2951,88 +3033,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-1b0iyzxAUOlyUrwyiDsaj6L7PvXegqOKMATpnfj9qi0="
-        }
-      ]
-    },
-    {
-      "Route": "img/bg3(v2).htev919jy5.png",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5844"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "htev919jy5"
-        },
-        {
-          "Name": "label",
-          "Value": "img/bg3(v2).png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY="
-        }
-      ]
-    },
-    {
-      "Route": "img/bg3(v2).png",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5844"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY="
         }
       ]
     },
@@ -3115,6 +3115,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-3Ddj4Dm2zUfP6OC/VxB9CFRoRuk51mvX0VogJjgG4y0="
+        }
+      ]
+    },
+    {
+      "Route": "img/bg3(v2).htev919jy5.png",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htev919jy5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bg3(v2).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY="
+        }
+      ]
+    },
+    {
+      "Route": "img/bg3(v2).png",
+      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\bg3(v2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:16:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xflzoQA1fdxwMG5uaYRUmH9sYLsAehVbzoWK+C9UfSY="
         }
       ]
     },
@@ -3577,88 +3659,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-JpN5b1TSYrUXW2GO4p11YqWMxlp5iB3B3ThFiTswMrw="
-        }
-      ]
-    },
-    {
-      "Route": "img/Снимок экрана 2025-03-15 155654.fjr7od1zbd.png",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\Снимок экрана 2025-03-15 155654.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "728548"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1TxoL50UouCvfDsG89B5S71SAY749AKf2YCKB+tDono=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 15:42:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fjr7od1zbd"
-        },
-        {
-          "Name": "label",
-          "Value": "img/Снимок экрана 2025-03-15 155654.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1TxoL50UouCvfDsG89B5S71SAY749AKf2YCKB+tDono="
-        }
-      ]
-    },
-    {
-      "Route": "img/Снимок экрана 2025-03-15 155654.png",
-      "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\img\\Снимок экрана 2025-03-15 155654.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "728548"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1TxoL50UouCvfDsG89B5S71SAY749AKf2YCKB+tDono=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 15:42:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1TxoL50UouCvfDsG89B5S71SAY749AKf2YCKB+tDono="
         }
       ]
     },
@@ -7145,7 +7145,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24937"
+          "Value": "25028"
         },
         {
           "Name": "Content-Type",
@@ -7153,11 +7153,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xbWjSlWnsOjzNjqv2wWJDt4aUjPWwRsyTtYeSqaveqw=\""
+          "Value": "\"6aLarHQvJQVZNxKsYIBfQCREkXvcgorua9vqFl0f3qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:54:48 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7167,12 +7167,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xbWjSlWnsOjzNjqv2wWJDt4aUjPWwRsyTtYeSqaveqw="
+          "Value": "sha256-6aLarHQvJQVZNxKsYIBfQCREkXvcgorua9vqFl0f3qo="
         }
       ]
     },
     {
-      "Route": "scss/main.vv0neitnx2.scss",
+      "Route": "scss/main.tju1ic9753.scss",
       "AssetFile": "C:\\Users\\imaf2\\source\\repos\\MyCompany\\MyCompany\\wwwroot\\scss\\main.scss",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7182,7 +7182,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24937"
+          "Value": "25028"
         },
         {
           "Name": "Content-Type",
@@ -7190,11 +7190,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xbWjSlWnsOjzNjqv2wWJDt4aUjPWwRsyTtYeSqaveqw=\""
+          "Value": "\"6aLarHQvJQVZNxKsYIBfQCREkXvcgorua9vqFl0f3qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 14:54:48 GMT"
+          "Value": "Sun, 16 Mar 2025 10:43:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7204,7 +7204,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vv0neitnx2"
+          "Value": "tju1ic9753"
         },
         {
           "Name": "label",
@@ -7212,7 +7212,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xbWjSlWnsOjzNjqv2wWJDt4aUjPWwRsyTtYeSqaveqw="
+          "Value": "sha256-6aLarHQvJQVZNxKsYIBfQCREkXvcgorua9vqFl0f3qo="
         }
       ]
     },

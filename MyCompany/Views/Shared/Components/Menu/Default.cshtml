@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ServiceDTO>
+
+<nav id="nav">
+    <ul>
+        <li>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Strona główna</a>
+        </li>
+        <li>
+            <a asp-area="" asp-controller="Services" asp-action="Index">Usługi</a>
+            <ul>
+                @foreach (ServiceDTO entity in Model)
+                {
+                    <li>
+                        <a asp-area="" asp-controller="Services" asp-action="Show" asp-route-id="@entity.Id">
+                            @entity.Title
+                        </a>
+                    </li>
+                }
+            </ul>
+        </li>
+        <li>
+            <a asp-area="" asp-controller="Home" asp-action="Contacts">Kontakty</a>
+        </li>
+    </ul>
+</nav>

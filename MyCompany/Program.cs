@@ -6,6 +6,7 @@ using MyCompany.Domain;
 using MyCompany.Domain.Repositories.Abstract;
 using MyCompany.Domain.Repositories.EntityFramework;
 using MyCompany.Infrastructure;
+using Serilog;
 
 namespace MyCompany
 {
@@ -56,8 +57,19 @@ namespace MyCompany
             // Connecting controller functionality
             builder.Services.AddControllersWithViews();
 
+            // Connecting the Serilog logger
+            builder.Host.UseSerilog((context, configuration) =>
+                configuration.ReadFrom.Configuration(context.Configuration));
+
             // Build configuration
             WebApplication app = builder.Build();
+
+            // Using logging
+            app.UseSerilogRequestLogging();
+
+            // Next, connect exception handling
+            if(app.Environment.IsDevelopment())
+                app.UseDeveloperExceptionPage();
 
             // Enabling the use of static files (js, css, ...)
             app.UseStaticFiles();
