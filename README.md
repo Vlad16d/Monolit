@@ -34,3 +34,7 @@ Podczas tworzenia aplikacji wykorzystano następujące wzorce projektowe i najle
 - **Bundling** - Łączenie plików JavaScript i CSS w celu zminimalizowania liczby zapytań HTTP.
 - **Minification** - Proces usuwania niepotrzebnych znaków z plików (np. białych znaków, komentarzy) w celu zmniejszenia ich rozmiaru i przyspieszenia ładowania strony.
 - **Logs** - Wykorzystanie systemu logowania (Serilog) do monitorowania działania aplikacji oraz identyfikowania e
+
+
+## 
+projekt jest ukończony i gotowy do publikacji.
